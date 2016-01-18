@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PictureViewer</string>
+    <string name="title_activity_picture_viewer">PictureViewer</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
